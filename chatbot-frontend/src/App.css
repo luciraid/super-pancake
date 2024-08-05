@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background: linear-gradient(120deg, #000428, #004e92);
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App-header {
+  font-family: 'Roboto', sans-serif;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ff5722;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e64a19;
+}
+
+.response {
+  margin-top: 20px;
+}
+
