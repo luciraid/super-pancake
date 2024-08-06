@@ -4,3 +4,6 @@ echo ".DS_Store" >> .gitignore
 node_modules/
 build/
 .DS_Store
+venv/
+__pycache__/
+.DS_Store
